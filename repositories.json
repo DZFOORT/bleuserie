@@ -1,0 +1,15 @@
+{
+  "name": "BlueSeries Repository",
+  "icon": "https://example.com/icon.png",
+  "authors": ["TonNom"],
+  "repoVersion": 1,
+  "extensions": [
+    {
+      "name": "BlueSeries",
+      "package": "com.cloudstream.extensions.blueseries",
+      "apk": "https://github.com/USERNAME/CloudStream-Blueseries/releases/latest/download/CloudStream_Blueseries.jar",
+      "lang": "fr",
+      "version": "1.0"
+    }
+  ]
+}
